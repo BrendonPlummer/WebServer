@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QT4E4uUgfsjq1MBmar1s+Ri9XyatXA+pCOo4WFYOfv1TgKE0ovmqbM39gOWYwV8atMMNFZ8Qk9Lw35JIfJV/6w==",
+  "success": true,
+  "projectFilePath": "/home/bdog/Sandbox/webServer_SecondTest/webServer_SecondTest.csproj",
+  "expectedPackageFiles": [
+    "/home/bdog/.nuget/packages/litedb/5.0.11/litedb.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

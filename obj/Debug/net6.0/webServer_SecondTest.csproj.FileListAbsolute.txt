@@ -1,0 +1,17 @@
+/home/bdog/Sandbox/webServer_SecondTest/bin/Debug/net6.0/webServer_SecondTest
+/home/bdog/Sandbox/webServer_SecondTest/bin/Debug/net6.0/webServer_SecondTest.deps.json
+/home/bdog/Sandbox/webServer_SecondTest/bin/Debug/net6.0/webServer_SecondTest.runtimeconfig.json
+/home/bdog/Sandbox/webServer_SecondTest/bin/Debug/net6.0/webServer_SecondTest.dll
+/home/bdog/Sandbox/webServer_SecondTest/bin/Debug/net6.0/webServer_SecondTest.pdb
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.csproj.AssemblyReference.cache
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.AssemblyInfoInputs.cache
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.AssemblyInfo.cs
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.csproj.CoreCompileInputs.cache
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.csproj.CopyComplete
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.dll
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/ref/webServer_SecondTest.dll
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.pdb
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/webServer_SecondTest.genruntimeconfig.cache
+/home/bdog/Sandbox/webServer_SecondTest/bin/Debug/net6.0/LiteDB.dll
+/home/bdog/Sandbox/webServer_SecondTest/obj/Debug/net6.0/refint/webServer_SecondTest.dll

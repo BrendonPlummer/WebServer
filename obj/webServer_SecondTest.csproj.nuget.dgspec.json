@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/bdog/Sandbox/webServer_SecondTest/webServer_SecondTest.csproj": {}
+  },
+  "projects": {
+    "/home/bdog/Sandbox/webServer_SecondTest/webServer_SecondTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/bdog/Sandbox/webServer_SecondTest/webServer_SecondTest.csproj",
+        "projectName": "webServer_SecondTest",
+        "projectPath": "/home/bdog/Sandbox/webServer_SecondTest/webServer_SecondTest.csproj",
+        "packagesPath": "/home/bdog/.nuget/packages/",
+        "outputPath": "/home/bdog/Sandbox/webServer_SecondTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bdog/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
